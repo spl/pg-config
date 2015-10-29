@@ -11,3 +11,11 @@ Create the appropriate symbolic links from `$HOME` to each of the files in this
 repository:
 
 * `.psqlrc` - configuration file for `psql`
+
+Resources
+---------
+
+* [PostgreSQL on the Command Line](http://phili.pe/posts/postgresql-on-the-command-line/)
+  by Philipe Fatio
+* [Improving the Command-Line Postgres Experience](https://robots.thoughtbot.com/improving-the-command-line-postgres-experience)
+  by Gabe Berke-Williams (thoughtbot, inc.)
