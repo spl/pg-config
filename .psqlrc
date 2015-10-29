@@ -6,6 +6,9 @@
 -- easier to read.
 \x auto
 
+-- Display the query execution time.
+\timing on
+
 -- Verbose error reports
 \set VERBOSITY verbose
 
