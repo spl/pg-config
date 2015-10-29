@@ -13,10 +13,6 @@
 -- history.
 \set HISTCONTROL ignoredups
 
--- Autocomplete keywords (like SELECT) in upper-case, even if you started
--- typing them in lower case.
-\set COMP_KEYWORD_CASE upper
-
 -- Prompts
 \set PROMPT1 '%[%033[35m%]%M%[%033[0m%]:%[%033[36m%]%n%[%033[0m%]@%[%033[36m%]%/ %[%033[31m%]%R%[%033[0m%]%\n%[%033[33m%][psql]%[%033[0m%] # '
 \set PROMPT2 '%[%033[33m%][psql]%[%033[0m%] %[%033[31m%]%R%[%033[0m%] > '
